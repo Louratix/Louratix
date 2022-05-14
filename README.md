@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Edouard Garnier</h1>
 <h3 align="center">An enthusiast Programmer/3D Modeler from France</h3>
 
-- 🌱 I’m currently learning **Anything related to Data Science (python, numpy, ML) and 3D modeling**
+- 🌱 I’m currently learning **Anything related to Data Science (python, numpy, ML) and 3D modeling/Design at HAL東京**
 
 - 👨‍💻 All of my projects are available at [https://louratix.github.io/](https://louratix.github.io/)
 
